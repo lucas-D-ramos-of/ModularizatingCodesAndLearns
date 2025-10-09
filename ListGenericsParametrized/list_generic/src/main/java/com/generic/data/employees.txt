@@ -1,0 +1,7 @@
+Lucas,2000
+Leticia,3000
+Allan,5000
+Vitor,3000
+Nicole,2500
+Adriano,1000
+Christian,7000
